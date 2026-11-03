@@ -51,7 +51,7 @@ A Telegram bot project designed to organize educational resources for Intelligen
 
 **Built with:** Python · Aiogram · SQLite
 
-_Public source repository: coming soon._
+_Source code is currently kept private while the project goes through its security and release review._
 
 ### 🔧 More projects coming soon
 I'll add more projects here as I build, document, and publish them.
