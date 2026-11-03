@@ -37,7 +37,6 @@ These are tools and technologies I'm learning or exploring:
   <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-used-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
 </p>
 
-<p><em>Node.js is not listed as a skill yet — I'm still exploring what it is and how it works.</em></p>
 
 ## 🚀 Featured Projects
 
