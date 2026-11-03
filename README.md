@@ -51,7 +51,7 @@ A Telegram bot project designed to organize educational resources for Intelligen
 
 **Built with:** Python · Aiogram · SQLite
 
-[View repository](https://github.com/hzhuzifa-prog)
+_Public source repository: coming soon._
 
 ### 🔧 More projects coming soon
 I'll add more projects here as I build, document, and publish them.
